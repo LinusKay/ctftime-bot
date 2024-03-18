@@ -13,7 +13,8 @@ Data relies on the work of the CTFTime community, and is in no way intended to r
 ```
     {
         "token": "DISCORD BOT TOKEN",
-        "clientId": "DISCORD BOT APPLICATION ID"
+        "clientId": "DISCORD BOT APPLICATION ID",
+        "guildId": "DISCORD SERVER ID"
     }
 ```
 * run `node .`
